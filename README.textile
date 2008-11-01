@@ -1,0 +1,23 @@
+h2. A Better CD Encoder, Forked
+
+Since "abcde":http://en.wikipedia.org/wiki/ABCDE development seems to be quite 
+sluggish at the moment, I (that's "Tim Weber":https://scytale.name/) decided 
+to fork it and convert it to Git to improve collaborative work.
+
+My personal main goal is to make MusicBrainz tagging work, but anyone who's 
+willing to work on other features is welcome to do so.
+
+h2. Branches
+
+There are currently two public branches: @googlecode@ is a mirror of the 
+what-seems-to-be-official current "abcde repository at Google 
+Code":http://code.google.com/p/abcde/ while @master@ is abcdef's main hacking 
+branch where all the development happens.
+
+I'll be syncing the @googlecode@ branch as often as possible. Given that there 
+haven't been any changes since over 4 months, I guess that's not going to be 
+_that_ often.
+
+
+
+// vim: set fo+=nat tw=78 et ai: //
