@@ -1,4 +1,4 @@
-h2. A Better CD Encoder, Forked
+h1. A Better CD Encoder, Forked
 
 Since "abcde":http://en.wikipedia.org/wiki/ABCDE development seems to be quite 
 sluggish at the moment, I (that's "Tim Weber":https://scytale.name/) decided 
